@@ -25,7 +25,8 @@ WHEN I refresh the page  </br>
 THEN the saved events persist  </br>
 
 ## Screenshot of Application
-
+![](Screenshot.png)  </br>
 ## Screenshot of Live-URL
-
+![](Screenshot-URL.jpg)  </br>
 ## URL of Deployed Application
+https://theothermike5544.github.io/Work-Day-Scheduler/
