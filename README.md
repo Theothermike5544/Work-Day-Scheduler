@@ -4,13 +4,12 @@
 This assessment allowed me the opportunity to create a working scheduler utilizing some previous knowledge of HTML, CSS, JavaScript, while implementing Jquery, Bootstrap, and Moment API use. JQuery was utilized in the Script file to greatly shorten my JavaScript code to dynamically create a working application utilizing a base structure format in my Index.HTML. Bootstrap allowed me to apply specific grid-blocking and styling elements to that base HTML structure on the Index.html page. And moment.js was only really used for displaying the date / time / day displays and formatting.
 
 
-## User Case Scenario / Criteria
-
+## Use Case
 AS AN employee with a busy schedule  </br>
 I WANT to add important events to a daily planner  </br>
 SO THAT I can manage my time effectively  </br>
-  </br>
--------------------------------------------------------
+
+## Acceptance Criteria
 GIVEN I am using a daily planner to create a schedule  </br>
 WHEN I open the planner  </br>
 THEN the current day is displayed at the top of the calendar  </br>
